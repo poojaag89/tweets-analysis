@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    margin: 0 auto;
+    width: auto; font-family:Arial, Helvetica, sans-serif; background:url(../images/bg.jpg) repeat-x;width: 1017px;}
+header{width: 1017px;height: 110px;
+    margin: 0px auto 50px;}
+.tweetHead{font-size: 45px;font-weight: bold;text-align: center;
+     color:#fff;}
+.cricketImg{margin-left: 310px;}
+.positionLeft{float:left;}
+#tweeterImg{margin-top: 22px;}
+table{width: 800px; margin: 0px auto}
+#leftImg{margin-right:30px;}
+#rightImg{margin-left:30px;}
+.clearBoth{clear:both;}
+.outerContainer{height: 450px; background:url(../images/bg4.jpg) repeat-x; padding:45px 30px;}
+.outerContainer a{color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;}
+.outerContainer p{margin: 0;
+    text-align: center;}
+.marginLefta{margin-left:52px;}
+.marginTopa{margin-top: 40px;}
+.marginLeftb{margin-left: 90px;}
+.buttonOuterContainer{background:url(../images/popularTweet.png) no-repeat;width:200px;height:200px;background-size: contain;}
+.buttonOuterContainer input{width:200px;height:200px; background:transparent; border:none;cursor:pointer;}
+.buttonOuterContainer p{margin-top: 3px;}
+.celebrity{background:url(../images/celebrity.png) no-repeat;}
+.outerContainer h1{margin-top: 0;text-align: center; color:#fff; font-family:Arial, Helvetica, sans-serif;text-decoration:underline;}
+.tweetTable{text-transform: uppercase;color: #fff;
+    font-weight: bold;margin: 0 auto;
+    width: 800px; margin-top:30px;}
+.tweetTable td{padding:20px;}
